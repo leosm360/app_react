@@ -23,6 +23,7 @@ export function AnimalsPage() {
     setSpecies("")
     setAge("")
   }
+  <h1>Lista de Animais (Feature Branch)</h1>
 
   return (
     <div>
