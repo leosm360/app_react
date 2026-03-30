@@ -1,9 +1,10 @@
 import { AnimalsPage } from "./pages/AnimalsPage"
+<h1>Mini Animals App - Versão 2</h1>
 
 function App() {
   return (
     <div>
-      <h1>Mini Animals App - Branch Feature</h1>
+      <h1>Mini Animals App - Main Alterada</h1>
       <p>Gestão simples de animais</p>
       <AnimalsPage />
     </div>
